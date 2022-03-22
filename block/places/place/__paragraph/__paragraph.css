@@ -1,0 +1,7 @@
+.place__paragraph {
+  grid-area: text;
+}
+
+.place__paragraph:nth-child(2) {
+  margin-top: 23px;
+}

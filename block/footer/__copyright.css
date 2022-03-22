@@ -1,0 +1,21 @@
+.footer__copyright {
+  display: block;
+  font-family: Inter;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.14;
+  margin: 0;
+  padding: 0;
+}
+
+.footer__copyright::before {
+  content: "\A9";
+  margin-right: 3px;
+}
+
+@media screen and (max-width: 320px) {
+  .footer__copyright {
+    line-height: 1;
+    margin-top: 16px;
+  }
+}
