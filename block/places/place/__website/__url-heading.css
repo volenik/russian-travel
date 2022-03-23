@@ -6,7 +6,7 @@
   align-self: end;
   color: #aaaaaa;
   padding: 0;
-  margin: 0;
+  margin: 0 auto 12px auto;
 }
 
 @media screen and (max-width: 1280px) {
