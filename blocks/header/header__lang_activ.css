@@ -1,4 +1,4 @@
-.header__lang-link_activ {
+.header__lang_activ {
   font-family: Inter;
   font-style: normal;
   font-weight: 400;
@@ -9,7 +9,7 @@
 }
 
 @media screen and (max-width: 320px) {
-  .header__lang-link {
+  .header__lang_activ{
     font-size: 18px;
     line-height: 1.11;
   }
