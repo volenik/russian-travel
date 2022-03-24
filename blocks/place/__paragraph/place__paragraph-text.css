@@ -1,4 +1,4 @@
-.place__paragraph_text {
+.place__paragraph-text {
   font-family: Inter;
   font-style: normal;
   font-weight: 400;
@@ -11,12 +11,12 @@
   padding: 0;
 }
 
-.place__paragraph_text:nth-child(2) {
+.place__paragraph-text:nth-child(2) {
   margin-top: 23px;
 }
 
 @media screen and (max-width: 768px) {
-  .place__paragraph_text {
+  .place__paragraph-text {
     font-family: "Inter";
     font-style: normal;
     font-weight: 400;
@@ -26,7 +26,7 @@
 }
 
 @media screen and (max-width: 320px) {
-  .place__paragraph {
+  .place__paragraph-text {
     min-width: calc(100% - 16px * 2);
     font-size: 16px;
     padding: 0 16px;
