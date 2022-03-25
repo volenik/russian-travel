@@ -1,0 +1,5 @@
+.cover__background {
+  background: url(../../../images/cover-trains.jpg) no-repeat center / cover;
+  width: 100%;
+  z-index: 0;
+}
